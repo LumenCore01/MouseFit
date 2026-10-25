@@ -1,0 +1,6 @@
+# personal run data and temporary files
+mousefit_records.json
+mouse_speed_backup.txt
+cursor_diary.txt
+__pycache__/
+*.pyc
